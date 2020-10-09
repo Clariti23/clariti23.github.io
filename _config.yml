@@ -28,7 +28,7 @@ twitter_username: jekyllrb
 github_username: clariti23
 
 # Build settings
-theme: minima
+theme: jekyll-swiss
 plugins:
   - jekyll-feed
 # Exclude from processing.
