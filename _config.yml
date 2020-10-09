@@ -28,7 +28,7 @@ twitter_username: FerowichReports
 github_username: clariti23
 
 # Build settings
-theme: jekyll-swiss
+remote_theme: broccolini/swiss
 theme_color: grey
 plugins:
   - jekyll-feed
