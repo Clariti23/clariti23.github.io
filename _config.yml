@@ -26,10 +26,10 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FerowichReports
 github_username: clariti23
-theme_color: grey
 
 # Build settings
 theme: jekyll-swiss
+theme_color: grey
 plugins:
   - jekyll-feed
 # Exclude from processing.
