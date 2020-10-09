@@ -21,10 +21,10 @@
 title: Grant Ferowich
 email: g.ferowich@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Some of my writing!
+  Welcome to my blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: FerowichReports
 github_username: clariti23
 theme_color: grey
 
