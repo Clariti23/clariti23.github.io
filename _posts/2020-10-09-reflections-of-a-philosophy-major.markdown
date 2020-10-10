@@ -5,7 +5,7 @@ date: 2020-10-09 13:18:36 -0500
 categories: jekyll update
 ---
 
-During the grinding uncertainty of the college years I wrote a viral piece, "Why I majored in philosophy despite everyone telling me not to." The argument goes like this: thinking deeply about hard answers to hard questions develops the mind and is fruitful self-discovery.
+During the grinding uncertainty of the college years I wrote a viral piece, "Why I majored in philosophy despite everyone telling me not to." The argument goes like this: thinking deeply about hard answers to hard questions is fruitful for self-discovery.
 
 Is that actually true? With just enough thinking, can someone figure out who he is and is not? To an extent, maybe. But I don't really think that's true anymore. Actions reveal who I am to myself. For examply, the choice to read difficult thinkers might say something about being introspective and enjoying difficult problems and puzzles.
 
