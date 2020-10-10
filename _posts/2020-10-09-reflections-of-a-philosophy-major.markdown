@@ -7,11 +7,11 @@ categories: jekyll update
 
 During the grinding uncertainty of the college years I wrote a viral piece, "Why I majored in philosophy despite everyone telling me not to." The argument goes like this: thinking deeply about hard answers to hard questions is fruitful for self-discovery.
 
-Is that actually true? With just enough thinking, can someone figure out who he is and is not? To an extent, maybe. But I don't really think that's true anymore. Actions reveal who I am to myself. For examply, the choice to read difficult thinkers might say something about being introspective and enjoying difficult problems and puzzles.
+Is that actually true? With just enough thinking, can someone figure out who he is and is not? To an extent, maybe. But I don't really think that's true anymore. Actions reveal who I am to myself. The choices reveal the character. For example, the choice to read difficult thinkers might say something about being introspective and enjoying difficult problems and puzzles.
 
 Many of the beliefs I discovered with just enough thinking, I later dropped. For example, in college I was so far to the left politically I was the co-president of the College Democrats. Today, I am mostly agnostic about political parties and lean into themes of self-reliance, the miracle of life and being alive, and the need for one to look into the mirror to find out who determines your destiny. I detest top-down rule-making, constant growth of the administrative state, and paying more in taxes to people in state capitals who are demonstrably bad at managing money. Just enough contemplation is not actually the solution to finding out what you believe. The beliefs are constantly being refined anew. The beliefs then exert an influence on your actions and choices. Those actions influence what you can the experience, which impacts what you believe, and so on. I am a strange loop to quote the title of a book by Douglas Hofstadter.
 
-Somes beliefs from the college years withstood the test of time. I wrote about opposing a war in Syria in 2013. I still believe the United States should withdraw all of its troops from Syria in 2020.
+Somes beliefs from the college years withstood the test of time. I wrote about opposing a war in Syria in 2013. I still believe the United States should withdraw all of its troops from Syria in 2020. In college I renewed a faith in Christianity. I still believe in the saving power of grace.
 
 Not long ago a college student reached out to me on LinkedIn saying he had read the 2013 article, [Why I majored in philosophy][article]. He asked if choosing philosophy might not have been the best choice in light of my current role as a software developer. This is what I told him.
 
